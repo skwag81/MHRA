@@ -1,6 +1,6 @@
 # MHRA 
 
-**MHRA** – A MATLAB application for external multi-hazard probabilistic risk assessment for a nuclear power plant
+**MHRA**: A development of a MATLAB application for external multi-hazard probabilistic risk assessment for a nuclear facility  
 
 Authors · Changuk Mun, Shinyoung Kwag, Seunghyun Eem, Daegi Hahm
   
