@@ -1,6 +1,6 @@
 # MHRA 
 
-**MHRA** – MHRA – A MATLAB application for external multi-hazard probabilistic risk assessment for nuclear power plant
+**MHRA** – A MATLAB application for external multi-hazard probabilistic risk assessment for a nuclear power plant
 
 Authors · Changuk Mun, Shinyoung Kwag, Seunghyun Eem, Daegi Hahm
   
@@ -10,7 +10,7 @@ License · MIT (see `LICENSE.txt`)
 
 ## Purpose
 
-This program, called MHRA (Multi Hazard probabilistic Risk Assessment), is a MATLAB-based GUI developed to facilitate multi-hazard probabilistic risk assessment (PRA) for nuclear power plants (NPPs).
+This program, called MHRA (Multi-Hazard Probabilistic Risk Assessment), is a MATLAB-based GUI developed to facilitate multi-hazard probabilistic risk assessment (PRA) for nuclear power plants (NPPs).
 
 ---
 
@@ -23,7 +23,7 @@ This program, called MHRA (Multi Hazard probabilistic Risk Assessment), is a MAT
    - Risk quantification
    - Output 
 * Fully open MATLAB codebase  
-* MIT-licensed and lightweight (runs on MATLAB Runtime if you have no MATLAB licence)
+* MIT-licensed and lightweight (runs on MATLAB Runtime if you have no MATLAB license)
 
 ---
 
@@ -38,18 +38,18 @@ This program, called MHRA (Multi Hazard probabilistic Risk Assessment), is a MAT
 ### Option B – Packaged app 
 
 1. Open MATLAB R2024a or newer.
-2. **Install** MHRA_v1.mlappinstall in release folder, and run this application.
-3. Go to the App manu of MATLAB and find "MHRA" app in My app.
+2. **Install** MHRA_v1.mlappinstall in the release folder, and run this application.
+3. Go to the App menu of MATLAB and find the "MHRA" app in My Apps.
 4. Click "MHRA" to **Run** the MHRA application.
 
 ### Option C – Packaged app  (for this, release Application using Source code)
-1. Open 'EHRA_v1.mlapp' in MATLAB R2024a or newer.
-2. Make 'Application' using Share in App Designer (please, name as EHRA)
+1. Open 'MHRA_v1.mlapp' in MATLAB R2024a or newer.
+2. Make 'Application' using Share in App Designer (please name as MHRA)
 3. MATLAB APP
 4. Web APP using MATLAB Compiler
 5. Standalone APP using MATLAB Compiler
 6. Install the matching MATLAB Runtime.
-7. Run EHRA.exe (Windows) or the equivalent launcher for your OS.
+7. Run MHRA.exe (Windows) or the equivalent launcher for your OS.
 
 ---
 
@@ -66,7 +66,7 @@ MHRA can be applied across academic, industrial, and educational settings.
  - Third-party reviewers involved in nuclear safety analysis can use MHRA as a complementary tool for independent verification of multi-hazard PRA results. 
  - Its transparency and reliability can be effective during regulatory discussions, allowing analysts to provide detailed technical justifications for their computational methods. 
  - This can aid in validating outputs from commercial codes for existing reactors, with the results serving as benchmarks. 
- - MHRA can be used to teach mutli-hazard PRA concepts to students and industry professionals for educational purposes.
+ - MHRA can be used to teach multi-hazard PRA concepts to students and industry professionals for educational purposes.
 
 ---
 
@@ -84,5 +84,5 @@ MHRA is released under the **MIT License** – see `LICENSE.txt`.
 
 ## Disclaimer
 
-The software is provided *as is* for research and educational use. The software is provided as is for research and educational use. Always confirm the input Excel template, hazard intensity ranges including subdivision, solver settings, and results on your specific multi-hazard PRA example, carefully.
+The software is provided *as is* for research and educational use. The software is provided as is for research and educational use. Always carefully confirm the input Excel template, hazard intensity ranges including subdivisions, solver settings, and results for your specific multi-hazard PRA example.
 
